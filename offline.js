@@ -1,0 +1,33 @@
+﻿{
+	"version": 1694708209,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/homebg.png",
+		"images/leavesbg.png",
+		"images/workbg.png",
+		"images/tiledbackground.png",
+		"images/flowerneardoor.png",
+		"images/homeflower.png",
+		"images/deadflowerneardoor.png",
+		"images/water-sheet0.png",
+		"images/fertilizer-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/spritefont.png",
+		"media/doorknock.ogg",
+		"media/menumusic.ogg",
+		"media/homemusic.ogg",
+		"media/excitedmusic.ogg",
+		"media/storemusic.ogg",
+		"media/pausemusic.ogg",
+		"media/gameovermusic.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
